@@ -1,0 +1,9 @@
+{
+    "window.autoDetectColorScheme": false,
+    "window.closeWhenEmpty": false,
+    "C_Cpp.dimInactiveRegions": false,
+    "accessibility.underlineLinks": true,
+    "accessibility.hideAccessibleView": true,
+    "explorer.excludeGitIgnore": false,
+    "explorer.fileNesting.enabled": false
+}
